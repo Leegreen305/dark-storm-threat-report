@@ -14,7 +14,7 @@ Analyst assessment and recommended mitigations
 This is a passive OSINT-based research project intended for educational and defensive cybersecurity analysis.
 
 📁 Files
-DarkStorm_Threat_Intelligence_Report_Advanced.pdf: Complete and formatted intelligence report suitable for portfolio and sharing.
+DarkStorm_Threat_Intelligence_Report...pdf: Complete and formatted intelligence report suitable for portfolio and sharing.
 
 🚨 Disclaimer
 This project is strictly for cybersecurity research and education.
