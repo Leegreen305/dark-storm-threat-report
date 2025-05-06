@@ -23,7 +23,7 @@ No illegal access, engagement, or interactions with threat actors was conducted.
 
 All data was gathered from public OSINT sources such as ThreatFox, Telegram, and public media.
 
-📚 OSINT Resources Used
+ OSINT Resources Used
 ThreatFox
 
 MalwareBazaar
@@ -36,6 +36,6 @@ VirusTotal
 
 MITRE ATT&CK
 
-📧 Contact
+Contact
 Report prepared by Lee Green (Cybersecurity Researcher).
 Feel free to connect or provide feedback on this project.
