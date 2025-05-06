@@ -1,4 +1,4 @@
-📌 About This Report
+ About This Report
 This report was compiled for cybersecurity research and portfolio purposes. It provides:
 
 Overview of Dark Storm Team and its motivations
